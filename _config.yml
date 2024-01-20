@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mike's homepage"
-description              : "Welcome to Mike's Homepage!"
+description              : #"Welcome to Mike's Homepage!"
 repository               : "mikemiaotech/ylmiao.github.io"
 google_scholar_stats_use_cdn : true
 
